@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 📚 Focusing on Java & Server development
 - 🌱 I’m currently learning Spark & Flink
 - 📫 How to reach me: Lo_ading@outlook.com
+- 😏 先打北不后悔
 - 🇨🇳 📷 🎮 📽 
-- 🀃 先打北不后悔 
-- 😏
