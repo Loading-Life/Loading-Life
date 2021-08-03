@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Spark & Flink
 - 📫 How to reach me: Lo_ading@outlook.com
 - 😏 先打北不后悔
-- 🇨🇳 📷 🎮 📽 
+- 🇨🇳 📷 🎮 📽 🏍
